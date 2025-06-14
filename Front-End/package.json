@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@tensorflow/tfjs": "^4.22.0",
-    "axios": "^1.9.0",
+    "axios": "^1.10.0",
     "face-api.js": "^0.22.2",
     "lamejs": "^1.2.1",
     "mic-recorder-to-mp3": "^2.2.2",
